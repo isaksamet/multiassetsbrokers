@@ -16,7 +16,7 @@
       <div class="trigger">
         {% for my_review in site.reviews %}
           {% if my_review.title %}
-          <a class="page-link" href="{{ my_review.url | prepend: site.baseurl }}">{{ my_review.title }}</a>
+          <a class="page-link" href="{{ my_review.url | prepend: site.baseurl }}">{{ my_review.menu_title }}</a>
           {% endif %}
         {% endfor %}
       </div>
