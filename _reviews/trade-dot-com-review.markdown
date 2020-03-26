@@ -8,7 +8,7 @@ author: Olav Jensen
 layout: post
 ---
 
-**Metadescription:** In this TRADE.com review we explore this one of a kind multi asset brokerage firm that stands head and shoulders above the competition. Read and then open an account.
+**Meta Description:** In this TRADE.com review we explore this one of a kind multi asset brokerage firm that stands head and shoulders above the competition. Read and then open an account.
 
 
 ## Introduction
