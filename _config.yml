@@ -13,10 +13,9 @@ collections:
     title: Uploads
     output: true
 email: info@multiassetsbrokers.com
-description: 'Reviews of the best Brokers
-'
+description: 'Reviews of the best Brokers '
 baseurl: 
-url: http://yourdomain.com
-twitter_username: jekyllrb
-github_username: jekyll
+url: https://multiassetsbrokers.com
+twitter_username: 
+github_username: 
 markdown: kramdown

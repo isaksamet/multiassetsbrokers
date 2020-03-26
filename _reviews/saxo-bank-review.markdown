@@ -1,6 +1,7 @@
 ---
 title: Saxo Bank Review
 date: 2020-03-26 13:36:00 Z
+position: 1
 menu_title: SaxoBank
 score: 5
 layout: post
