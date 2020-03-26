@@ -1,6 +1,7 @@
 ---
 title: IG Index Review
 date: 2020-03-26 11:49:00 Z
+permalink: "/IG_index_review"
 layout: post
 ---
 
