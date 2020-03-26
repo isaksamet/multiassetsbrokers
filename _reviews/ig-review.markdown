@@ -1,6 +1,7 @@
 ---
-title: IG Index Review
-date: 2020-03-26 11:49:00 Z
+title: IG Review
+date: 2020-03-26 12:34:00 Z
+permalink: "/ig-review"
 layout: post
 ---
 
