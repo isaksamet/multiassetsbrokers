@@ -9,8 +9,6 @@ layout: default
   <ul class="post-list">
     {% for review in site.reviews %}
       <li>
-        <span class="post-meta">{{ review.date | date: "%b %-d, %Y" }}</span>
-
         <h2>
           <a class="post-link" href="{{ review.url | prepend: site.baseurl }}">{{ review.title }}</a>
         </h2>
