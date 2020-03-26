@@ -1,6 +1,7 @@
 ---
 title: Test Review
 date: 2020-03-26 11:01:00 Z
+Score: 5
 layout: post
 ---
 
