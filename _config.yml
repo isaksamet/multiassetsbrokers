@@ -15,7 +15,7 @@ collections:
 email: info@multiassetsbrokers.com
 description: 'Reviews of the best Brokers '
 baseurl: 
-url: http://multiassetsbrokers.com
+url: https://multiassetsbrokers.com
 twitter_username: 
 github_username: 
 markdown: kramdown
