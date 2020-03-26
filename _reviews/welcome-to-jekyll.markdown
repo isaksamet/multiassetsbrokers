@@ -1,9 +1,6 @@
 ---
-title: Welcome to my site!!!
+title: Test Review
 date: 2020-03-26 11:01:00 Z
-categories:
-- jekyll
-- update
 layout: post
 ---
 
