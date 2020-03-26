@@ -1,10 +1,9 @@
 ---
 title: CMC Markets Review
 date: 2020-03-26 12:34:00 Z
-permalink: "/cmc-markets"
 menu_title: CMC Markets
-layout: post
 score: 3
+layout: post
 ---
 
 ## Introduction
