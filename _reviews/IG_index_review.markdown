@@ -1,10 +1,8 @@
 ---
 title: IG Index Review
 date: 2020-03-26 11:49:00 Z
+layout: post
 ---
-
-# IG Index Review
-
 
 ## Introduction
 
