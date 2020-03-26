@@ -6,45 +6,12 @@ score: 5
 layout: post
 ---
 
-<!----- Conversion time: 4.95 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β20
-* Thu Mar 26 2020 06:40:04 GMT-0700 (PDT)
-* Source doc: Trade review 5 reviews
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 3.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 **Metadescription:** In this TRADE.com review we explore this one of a kind multi asset brokerage firm that stands head and shoulders above the competition. Read and then open an account.
 
 
 ## Introduction
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Trade-review0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Trade-review0.png "image_tooltip")
+![trade com screenshot](/images/tradecom_img1.png "screenshot from trade com ")
 
 
 TRADE.com is a multi-asset online brokerage firm that was established back in 2013, with its headquarters in Cyprus. Since then, it has emerged as one of the leaders in the online brokerage space. It offers thousands of different financial assets and instruments for you to invest in across a variety of trading vehicles. These include DMA (Direct Market Access, SpreadBetting for the UK and Ireland, Asset Management services, Thematic tradinng and Pre-IPOs.
@@ -106,10 +73,7 @@ There are two main trading platforms that you can use on TRADE.com for CFD tradi
 
 The first is WebTrader, which is ideal if you want to trade through a browser. The interface is crystal clear and minimalistic. Having said that, there is also a great selection of different features and functions that you can use to help you with your trading. One of the highlights of this trading platform is its risk management system that gives you a great helping hand in volatile markets. 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Trade-review1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Trade-review1.png "image_tooltip")
+![trade com screenshot](/images/tradecom_img2.png "screenshot from trade com ")
 
 
 You also can use the industry-standard MetaTrader 4 platform. This has been around for many years and a lot of traders will have used this platform at one time or another. This platform can be downloaded as a desktop client for Windows and Mac computers. It is a very convenient platform to use and there is an impressive selection of professional tools to use, which is why it has stood the test of time as a platform. 
@@ -136,10 +100,7 @@ The TRADE.com website is comprehensive in terms of the information that it provi
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/Trade-review2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/Trade-review2.png "image_tooltip")
+![trade com screenshot](/images/tradecom_img3.png "screenshot from trade com ")
 
 
 For simple questions, the live chat option is probably your best bet due to the quick response times. For more detailed issues, you can send the team an email. This inbox is monitored from Sunday at 22:00 GMT until Friday at 22:00 GMT. 
