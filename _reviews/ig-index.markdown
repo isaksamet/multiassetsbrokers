@@ -4,6 +4,7 @@ date: 2020-03-26 12:34:00 Z
 position: 3
 menu_title: IG Index
 score: 4
+author: Olav Jensen
 layout: post
 ---
 
@@ -15,9 +16,6 @@ IG has a great reputation, having catered for clients for many decades, allowing
 
 
 ## Pros 
-
-
-
 *   Thousands of markets to invest in
 *   Decent fee structure
 *   Numerous trading platforms
@@ -25,9 +23,6 @@ IG has a great reputation, having catered for clients for many decades, allowing
 
 
 ## Cons
-
-
-
 *   A big focus on CFD trading
 
 
