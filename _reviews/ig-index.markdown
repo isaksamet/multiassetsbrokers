@@ -1,6 +1,7 @@
 ---
 title: IG Index Review
 date: 2020-03-26 12:34:00 Z
+position: 3
 menu_title: IG Index
 score: 4
 layout: post
