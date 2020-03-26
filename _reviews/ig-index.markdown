@@ -1,8 +1,8 @@
 ---
 title: IG Index Review
-menu_title: IG Index
 date: 2020-03-26 12:34:00 Z
 permalink: "/ig-index"
+menu_title: IG Index
 layout: post
 score: 4
 ---

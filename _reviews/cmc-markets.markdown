@@ -1,8 +1,8 @@
 ---
 title: CMC Markets Review
-menu_title: CMC Markets
 date: 2020-03-26 12:34:00 Z
 permalink: "/cmc-markets"
+menu_title: CMC Markets
 layout: post
 score: 3
 ---
