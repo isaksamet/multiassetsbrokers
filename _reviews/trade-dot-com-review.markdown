@@ -5,6 +5,11 @@ position: 0
 menu_title: Trade.com
 score: 5
 author: Olav Jensen
+description: TRADE.com is a multi-asset online brokerage firm that was established
+  back in 2013, with its headquarters in Cyprus. Since then, it has emerged as one
+  of the leaders in the online brokerage space.
+reviewed_item: 'trade dot com '
+featured_image: https://a.c-dn.net/b/07Cglg.svg#IG_LOGO.svg
 layout: post
 ---
 
