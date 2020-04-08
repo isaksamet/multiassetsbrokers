@@ -1,24 +1,12 @@
----
-layout: default
----
-
-<article class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
+<!-- Schema from https://brokerchooser.com/broker-reviews/saxo-bank-review --> 
 <script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "Review",
-        "headline": "{{ page.title }}", 
+        "headline": "Saxo Bank Review 2020 - Pros and Cons Uncovered", XXX
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "{{}}" XXX
+            "@id": "https://brokerchooser.com/broker-reviews/saxo-bank-review" XXX
         },
             "dateModified": "2019-12-09 12:45:48",
             "datePublished": "2017-04-01 00:00:00",
@@ -29,12 +17,12 @@ layout: default
             "author": {
                 "@type": "Person",
                 "name": "Olav Jensen",
-                "image": "https://multiassetsbrokers.com/images/olav_jensen.png",
+                "image": "https://multiassetsbrokers.com/olav_jensen.png",
                 "description": "Olav is the founder MultiAssets Broker. His aim is to make investing clear for everyone. Olav has 12 years of experience in the financial markets."
         },
                 "reviewRating": {
                 "@type": "Rating",
-                "ratingValue": "{{page.score}}", 
+                "ratingValue": "4.8",XXX 
                 "bestRating": "5.0",
                 "worstRating": "1.0"
             },
@@ -56,7 +44,7 @@ layout: default
                 "contactType": "Customer service"
             }
         },
-        "image": "{{page.featured_image}}", 
-        "description": "{{page.description}}"
+        "image": "https://brokerchooser.com/uploads/broker_logos/saxo-bank-review.png", XXX
+        "description": "Saxo Bank review written by investing professionals. Updated for 2020. Everything in one place: pros and cons of fees, trading platform, and investor protection."  XXX
+    }
 </script>
-</article>

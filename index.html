@@ -4,14 +4,16 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Our Reviews</h1>
+  <h1>Our Reviews</h1>
 
   <ul class="post-list">
     {% for review in site.reviews %}
       <li>
+        <div class="jumbotron">
         <h2>
           <a class="post-link" href="{{ review.url | prepend: site.baseurl }}">{{ review.title }}</a>
         </h2>
+      </div>
       </li>
     {% endfor %}
   </ul>
