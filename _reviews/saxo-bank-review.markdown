@@ -1,17 +1,5 @@
 ---
 title: Saxo Bank Review
-date: 2020-03-26 13:36:00 Z
-position: 1
-menu_title: SaxoBank
-<<<<<<< HEAD
-score: 3.7
-=======
-score: 5
-author: Olav Jensen
->>>>>>> ec81971294eec0c1f3d8a1debda3e04115e69b9c
-layout: post
-featured_image: https://multiassetsbrokers.com/images/images/olav_jensen.png
-description: "Saxo Bank is a leader when it comes to the broker space, giving traders and investors access to over 35,000 different financial instruments from various asset classes. It has its roots as a Danish Investment bank that was started in 1992"
 ---
 
 ## Introduction
