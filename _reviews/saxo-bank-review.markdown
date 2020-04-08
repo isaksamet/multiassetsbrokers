@@ -7,7 +7,10 @@ score: 5
 author: Olav Jensen
 layout: post
 featured_image: https://multiassetsbrokers.com/images/images/olav_jensen.png
-description: "Saxo Bank is a leader when it comes to the broker space, giving traders and investors access to over 35,000 different financial instruments from various asset classes. It has its roots as a Danish Investment bank that was started in 1992"
+description: Saxo Bank is a leader when it comes to the broker space, giving traders
+  and investors access to over 35,000 different financial instruments from various
+  asset classes. It has its roots as a Danish Investment bank that was started in
+  1992
 ---
 
 ## Introduction
