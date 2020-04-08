@@ -16,32 +16,28 @@ layout: default
         "@context": "http://schema.org",
         "@type": "Review",
         "headline": "{{ page.title }}", 
-        "mainEntityOfPage": {
-            "@type": "WebPage",
-            "@id": "{{}}" XXX
+        "dateModified": "2019-12-09 12:45:48",
+        "datePublished": "2017-04-01 00:00:00",
+        "itemReviewed": {
+            "@type": "Product",
+            "name": "{{page.reviewed_item}}" 
         },
-            "dateModified": "2019-12-09 12:45:48",
-            "datePublished": "2017-04-01 00:00:00",
-            "itemReviewed": {
-                "@type": "Product",
-                "name": "Saxo Bank" XXX
-            },
-            "author": {
-                "@type": "Person",
-                "name": "Olav Jensen",
-                "image": "https://multiassetsbrokers.com/images/olav_jensen.png",
-                "description": "Olav is the founder MultiAssets Broker. His aim is to make investing clear for everyone. Olav has 12 years of experience in the financial markets."
+        "author": {
+            "@type": "Person",
+            "name": "Olav Jensen",
+            "image": "https://multiassetsbrokers.com/images/olav_jensen.png",
+            "description": "Olav is the founder MultiAssets Broker. His aim is to make investing clear for everyone. Olav has 12 years of experience in the financial markets."
+    	},
+        "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "{{page.score}}", 
+            "bestRating": "5.0",
+            "worstRating": "1.0"
         },
-                "reviewRating": {
-                "@type": "Rating",
-                "ratingValue": "{{page.score}}", 
-                "bestRating": "5.0",
-                "worstRating": "1.0"
-            },
-            "publisher": {
-            "@type": "Organization",
-            "name": "MultiAssetsBrokers",
-            "url": "http://multiassetsbrokers.com",
+        "publisher": {
+        	"@type": "Organization",
+        	"name": "MultiAssetsBrokers",
+        	"url": "http://multiassetsbrokers.com",
             "logo": {
                 "@type": "ImageObject",
                 "url": " http://multiassetsbrokers.com/images/logo.png",
