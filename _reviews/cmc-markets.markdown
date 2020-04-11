@@ -6,6 +6,9 @@ menu_title: CMC Markets
 score: 3
 author: Olav Jensen
 layout: post
+reviewed_item: CMC Markets
+featured_image: https://assets.cmcmarkets.com/images/cmc-logo-blue.svg
+
 ---
 
 ## Introduction

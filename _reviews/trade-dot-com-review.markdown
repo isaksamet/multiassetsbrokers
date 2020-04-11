@@ -9,7 +9,7 @@ description: TRADE.com is a multi-asset online brokerage firm that was establish
   back in 2013, with its headquarters in Cyprus. Since then, it has emerged as one
   of the leaders in the online brokerage space.
 reviewed_item: 'trade dot com '
-featured_image: https://a.c-dn.net/b/07Cglg.svg#IG_LOGO.svg
+featured_image: https://cfd.trade.com/sites/default/files/nv-images/TRADE.com_CFD_Logo.svg
 layout: post
 ---
 

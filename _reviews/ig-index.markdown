@@ -6,6 +6,8 @@ menu_title: IG Index
 score: 4
 author: Olav Jensen
 layout: post
+reviewed_item: 'IG Index'
+featured_image: https://a.c-dn.net/b/07Cglg.svg#IG_LOGO.svg
 ---
 
 ## Introduction

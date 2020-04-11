@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://multiassetsbrokers.com/sitemap.xml
