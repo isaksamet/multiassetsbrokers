@@ -4,7 +4,7 @@ date: 2020-04-19 15:51:00 Z
 score: 4
 menu_title: InstaForex
 author: Olav Jensen
-featured_image: https://assets.cmcmarkets.com/images/cmc-logo-blue.svg
+featured_image: https://multiassetsbrokers.com/uploads/instaforex%20logo.png
 reviewed_item: CMC Markets
 layout: post
 ---
