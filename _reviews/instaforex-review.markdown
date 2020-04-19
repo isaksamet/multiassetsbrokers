@@ -6,6 +6,7 @@ menu_title: InstaForex
 author: Olav Jensen
 featured_image: https://assets.cmcmarkets.com/images/cmc-logo-blue.svg
 reviewed_item: CMC Markets
+layout: post
 ---
 
 ## Introduction
@@ -24,7 +25,6 @@ This InstaForex review looks at the pros and cons of the offering, allowing you 
 *   Top-quality research
 *   24/5 customer support team
 *   Wide variety of payment methods
-
 
 ## Cons
 *   Average fee structure
