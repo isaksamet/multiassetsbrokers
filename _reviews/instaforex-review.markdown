@@ -9,9 +9,9 @@ reviewed_item: CMC Markets
 layout: post
 ---
 
-![instaforex logo.png](/uploads/instaforex%20logo.png)
-
 ## Introduction
+
+![instaforex logo.png](/uploads/instaforex%20logo.png)
 
 InstaForex has been offering the trading off Forex since 2007 and in the intervening period it has grown into one of the biggest brokers of its kind in the online space, having more than 7 million traders signed up for an account. Its main area of focus is on traders that are based in the European Union.
 
