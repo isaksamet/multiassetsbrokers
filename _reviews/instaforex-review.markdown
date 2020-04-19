@@ -11,8 +11,8 @@ layout: post
 
 ## Introduction
 
-InstaForex has been offering the trading off Forex since 2007 and in the intervening period it has grown into one of the biggest brokers of its kind in the online space, having more than 7 million traders signed up for an account. Its main area of focus is on traders that are based in the European Union.
-![instaforex logo.png](/uploads/instaforex%20logo.png)
+![instaforex logo.png](/uploads/instaforex%20logo.png) InstaForex has been offering the trading off Forex since 2007 and in the intervening period it has grown into one of the biggest brokers of its kind in the online space, having more than 7 million traders signed up for an account. Its main area of focus is on traders that are based in the European Union.
+
 There are five main asset classes offered, with many different assets contained within these classes. There is a top-quality research offering at InstaForex thanks to the dozens of analysts that are employed.  
 
 To operate in the European online brokerage market, InstaForex is regulated by the Cyprus Securities and Exchange Commission (CySEC). One way in which InstaForex has been promoting its offering is through a variety of sponsorship deals. Its most notable deal is as a sponsor for the Borussia Dortmund football team. 
@@ -34,7 +34,9 @@ This InstaForex review looks at the pros and cons of the offering, allowing you 
 ## Products
 
 The InstaForex offering is wide-ranging, covering a lot of different types of asset classes and trading tools. You have everything from CFD trading to cryptocurrency, options, futures and Forex trading capabilities. As the name probably suggests, its main focus is on its forex offering. 
+
 ![instaforex products.png](/uploads/instaforex%20products.png)
+
 There are more than 100 different currency pairs that can be traded. There are also more than 85 different equities CFDs that can be traded. You also have access to precious metals and commodities trading, as well as a handful of indices CFDs and cryptocurrencies. 
 
 There is leverage available, with it varying depending on what asset you are looking to trade. The available leverage begins at 1:1 and goes as far up to 1:1000. There is the availability of copy traders, allowing you to copy the trades that the most successful traders on the platform are making. 
