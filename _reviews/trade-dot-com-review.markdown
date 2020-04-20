@@ -5,12 +5,15 @@ position: 0
 menu_title: Trade.com
 score: 5
 author: Olav Jensen
-description: In this TRADE.com review we explore this one of a kind multi asset brokerage firm that stands head and shoulders above the competition. Read and then open an account. TRADE.com is a multi-asset online brokerage firm that was established back in 2013, with its headquarters in Cyprus. Since then, it has emerged as one of the leaders in the online brokerage space.
-reviewed_item: 'trade dot com'
+description: In this TRADE.com review we explore this one of a kind multi asset brokerage
+  firm that stands head and shoulders above the competition. Read and then open an
+  account. TRADE.com is a multi-asset online brokerage firm that was established back
+  in 2013, with its headquarters in Cyprus. Since then, it has emerged as one of the
+  leaders in the online brokerage space.
+reviewed_item: trade dot com
 featured_image: https://cfd.trade.com/sites/default/files/nv-images/TRADE.com_CFD_Logo.svg
 layout: review
 ---
-
 
 |broker 			|TRADE.com|
 | :---       		 |    :----:   | 

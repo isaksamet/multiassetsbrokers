@@ -8,8 +8,13 @@ author: Olav Jensen
 layout: review
 reviewed_item: IG Index
 featured_image: https://a.c-dn.net/b/07Cglg.svg#IG_LOGO.svg
-description: IG is a broker that was set up back in 1974 and is a publicly-traded company. It has built itself into one of the largest CFD brokers across the world today. It is under the regulation of many leading bodies around the globe, such as the Federal Financial Supervisory Authority (BaFIN) and the Financial Conduct Authority in the UK. 
+description: IG is a broker that was set up back in 1974 and is a publicly-traded
+  company. It has built itself into one of the largest CFD brokers across the world
+  today. It is under the regulation of many leading bodies around the globe, such
+  as the Federal Financial Supervisory Authority (BaFIN) and the Financial Conduct
+  Authority in the UK.
 ---
+
 |Broker|IG|
 | :---       		 |    :----:   | 
 |Website URL|[www.ig.com](https://www.ig.com/en)|

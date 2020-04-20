@@ -1,18 +1,6 @@
+---
 title: Multi Assets Brokers
-description: A business home page starter template for Bootstrap 4 featuring marketing boxes and a full width image header.
-
-baseurl: 
-color-scheme: "#467187" # the scheme can be any HEX code like "#00aa55"
-
-sass:
-  sass_dir: /assets/css/_sass
-  style: compressed
-
-include:
-  - _pages
-
-exclude:
-  - .sass-cache
+timezone: UTC
 collections:
   posts:
     title: Posts
@@ -24,4 +12,15 @@ collections:
   uploads:
     title: Uploads
     output: true
+description: A business home page starter template for Bootstrap 4 featuring marketing
+  boxes and a full width image header.
+baseurl: 
+color-scheme: "#467187"
+sass:
+  sass_dir: "/assets/css/_sass"
+  style: compressed
+include:
+- _pages
+exclude:
+- ".sass-cache"
 email: info@multiassetsbrokers.com
