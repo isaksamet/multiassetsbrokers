@@ -6,9 +6,6 @@ menu_title: InstaForex
 author: Olav Jensen
 <<<<<<< HEAD
 featured_image: /images/instaforex_logo.png
-=======
-featured_image: "/images/instaforex%20logo.png"
->>>>>>> bbf7aea0b3b824a788c6d602a957f85844381268
 reviewed_item: CMC Markets
 layout: post
 description: InstaForex has been offering the trading off Forex since 2007 and in
