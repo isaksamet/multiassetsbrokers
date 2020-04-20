@@ -1,11 +1,10 @@
 ---
 title: CMC Markets Review
-date: 2020-03-26 12:34:00 Z
+date: 2020-04-17 12:34:00 Z
 position: 2
 menu_title: CMC Markets
 score: 3
 author: Olav Jensen
-layout: review
 reviewed_item: CMC Markets
 featured_image: https://assets.cmcmarkets.com/images/cmc-logo-blue.svg
 description: CMC Markets was originally founded in 1989 and it has its headquarters
@@ -13,6 +12,7 @@ description: CMC Markets was originally founded in 1989 and it has its headquart
   the regulation of the highly-respected UK Financial Conduct Authority (FCA). There
   are thousands of different instruments that can be traded through CMC Markets. It
   covers most of the bases that a trader would be looking for in a broker.
+layout: review
 ---
 
 |Broker|CMC Markets|
