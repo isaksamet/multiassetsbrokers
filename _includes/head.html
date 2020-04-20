@@ -11,10 +11,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-5CMP43M');</script>
 <!-- End Google Tag Manager -->
-  <meta name="description" content="{{ site.description }}" />
+  <meta name="description" content="{{ page.description }}" />
   <meta name="author" content="Olav Jensen" />
   <link rel="canonical" href="{{ site.baseurl}}{{ page.url }}" />
-  <title>{{ site.title }}</title>
+
+{% if page.title == site.title %}
+  <title>{{ page.title}} | {{ site.title }}</title>
+{% else %}
+  <title>{{ page.title}}</title>
+{% endif %}
+
+
+
 
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="article" />

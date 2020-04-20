@@ -12,8 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: A business home page starter template for Bootstrap 4 featuring marketing
-  boxes and a full width image header.
+description: 
 baseurl: https://multiassetsbrokers.com
 color-scheme: "#467187"
 sass:
