@@ -1,10 +1,11 @@
 ---
 title: Instaforex Review
+<<<<<<< HEAD
 date: 2020-04-19 15:51:00 Z
 score: 4
 menu_title: InstaForex
 author: Olav Jensen
-<<<<<<< HEAD
+
 featured_image: /images/instaforex_logo.png
 reviewed_item: CMC Markets
 layout: post
