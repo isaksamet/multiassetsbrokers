@@ -6,7 +6,7 @@ menu_title: SaxoBank
 score: 4
 author: Olav Jensen
 reviewed_item: Saxo Bank
-featured_image: "/images/saxo_bank_logo.svg"
+featured_image: https://multiassetsbrokers.com/images/saxo_bank_logo.svg
 description: Saxo Bank is a leader when it comes to the broker space, giving traders
   and investors access to over 35,000 different financial instruments from various
   asset classes. It has its roots as a Danish Investment bank that was started in
