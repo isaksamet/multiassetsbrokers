@@ -2,6 +2,16 @@
 title: Instaforex Review
 ---
 
+=======
+date: 2020-04-19 15:51:00 Z
+score: 4
+menu_title: InstaForex
+author: Olav Jensen
+featured_image: https://multiassetsbrokers.com/uploads/instaforex%20logo.png
+reviewed_item: CMC Markets
+layout: post
+---
+
 |Broker|Instaforex|
 | :---       		 |    :----:   | 
 |Website URL|[www.instaforex.eu](https://www.instaforex.eu/)|
@@ -30,38 +40,22 @@ title: Instaforex Review
 
 <br/>
 
-=======
-date: 2020-04-19 15:51:00 Z
-score: 4
-menu_title: InstaForex
-author: Olav Jensen
-featured_image: https://multiassetsbrokers.com/uploads/instaforex%20logo.png
-reviewed_item: CMC Markets
-layout: post
----
-
-![instaforex logo.png](/uploads/instaforex%20logo.png)
->>>>>>> 78d3836ff8ac1f3995c76e847738919228222868
-
 ## Introduction
 
 InstaForex has been offering the trading off Forex since 2007 and in the intervening period it has grown into one of the biggest brokers of its kind in the online space, having more than 7 million traders signed up for an account. Its main area of focus is on traders that are based in the European Union.
 
 There are five main asset classes offered, with many different assets contained within these classes. There is a top-quality research offering at InstaForex thanks to the dozens of analysts that are employed.  
 
-<<<<<<< HEAD
+
 ![instaforex logo.png](/images/instaforex_logo.png){:class="center-img"}
 
-
-=======
->>>>>>> 78d3836ff8ac1f3995c76e847738919228222868
 To operate in the European online brokerage market, InstaForex is regulated by the Cyprus Securities and Exchange Commission (CySEC). One way in which InstaForex has been promoting its offering is through a variety of sponsorship deals. Its most notable deal is as a sponsor for the Borussia Dortmund football team. 
 
 This InstaForex review looks at the pros and cons of the offering, allowing you to decide if you want to start trading with them or not.  
 
 
 ## Pros
-<<<<<<< HEAD
+
 <ul class="fa-ul">
   <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Great forex offering</li>
   <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Top-quality research</li>
@@ -76,27 +70,13 @@ This InstaForex review looks at the pros and cons of the offering, allowing you 
   <li><span class="fa-li"><i class="fas fa-times-circle"></i></span>Transactions can be slow and costly</li>
 </ul>
 
-=======
-*   Great forex offering
-*   Top-quality research
-*   24/5 customer support team
-*   Wide variety of payment methods
-
-## Cons
-*   Average fee structure
-*   Transactions can be slow and costly
->>>>>>> 78d3836ff8ac1f3995c76e847738919228222868
-
 
 ## Products
 
 The InstaForex offering is wide-ranging, covering a lot of different types of asset classes and trading tools. You have everything from CFD trading to cryptocurrency, options, futures and Forex trading capabilities. As the name probably suggests, its main focus is on its forex offering. 
 
-<<<<<<< HEAD
 ![instaforex products.png](/images/instaforex_products.png){:class="center-img"}
-=======
-![instaforex products.png](/uploads/instaforex%20products.png)
->>>>>>> 78d3836ff8ac1f3995c76e847738919228222868
+
 
 There are more than 100 different currency pairs that can be traded. There are also more than 85 different equities CFDs that can be traded. You also have access to precious metals and commodities trading, as well as a handful of indices CFDs and cryptocurrencies. 
 
