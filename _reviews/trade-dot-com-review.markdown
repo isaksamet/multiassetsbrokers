@@ -5,20 +5,45 @@ position: 0
 menu_title: Trade.com
 score: 5
 author: Olav Jensen
-description: TRADE.com is a multi-asset online brokerage firm that was established
-  back in 2013, with its headquarters in Cyprus. Since then, it has emerged as one
-  of the leaders in the online brokerage space.
-reviewed_item: 'trade dot com '
+description: In this TRADE.com review we explore this one of a kind multi asset brokerage firm that stands head and shoulders above the competition. Read and then open an account. TRADE.com is a multi-asset online brokerage firm that was established back in 2013, with its headquarters in Cyprus. Since then, it has emerged as one of the leaders in the online brokerage space.
+reviewed_item: 'trade dot com'
 featured_image: https://cfd.trade.com/sites/default/files/nv-images/TRADE.com_CFD_Logo.svg
-layout: post
+layout: review
 ---
 
-**Meta Description:** In this TRADE.com review we explore this one of a kind multi asset brokerage firm that stands head and shoulders above the competition. Read and then open an account.
 
+|broker 			|TRADE.com|
+| :---       		 |    :----:   | 
+|Website URL|[https://www.trade.com](https://www.trade.com)|
+|Founded|2014|
+|Headquarters|<i class="fas fa-map-marker-alt"></i>  Strovolos, 128–130 Limassol Avenue, Office 301, 3rd floor, CY 2015, Nicosia, Cyprus|
+|Support Number|<i class="fas fa-phone-square-alt"></i> <a href="tel:+442031500204">+44 203 150 0204</a> , <i class="fas fa-phone-square-alt"></i> <a href="tel:+442031500456">+44 203 150 0456</a>|
+|Support Types|<i class="fas fa-envelope-square"></i>  Email, <i class="fas fa-comment-dots"></i> Chat, <i class="fas fa-phone-square-alt"></i>  Phone|
+|languages|20+ languages supported|
+|Trading Platform|WebTrader (Web, Mobile and Tablet), MetaTrader4 (MT4), MetaTrader5 (MT5)|
+|Minimum 1st Deposit|100|
+|Minimum Account Size|100|
+|Maximum Trade Amount|<i class="fas fa-check-circle"></i>	No limit|
+|Bonus|<i class="fas fa-times-circle"></i>	No deposit bonus|
+|Leverage|Up to 1:300 for Forex, Up to 1:200 for Commodities, Up to 1:200 for Indices, Up to 1:100 for ETFs, Up to 1:100 for Bonds, Up to 1:10 for Shares|
+|Spread|Fixed and variable|
+|Free Demo Account|<i class="fas fa-check-circle"></i>	Yes|
+|Regulated|Authorized and regulated by the Cyprus Securities and Exchange Commission, license number 227/14 and authorized by the FSCA, South Africa (FSP No. 47857).|
+|Account Types|Micro , Silver , Gold , Platinum , Exclusive|
+|Deposit Methods|Skrill (Moneybookers), Neteller, Wire Transfer, Credit Cards|
+|Withdrawal Methods|Skrill (Moneybookers), Neteller, Wire Transfer, Credit Cards|
+|Number of Assets|2100+|
+|Types of Assets|Bonds , Commodities , Forex , Crypto , Indices , Stocks , Live Stocks , ETFs|
+|US Traders Allowed|<i class="fas fa-times-circle"></i>		No|
+|Mobile Trading|<i class="fas fa-check-circle"></i>		Yes|
+|Tablet Trading|<i class="fas fa-check-circle"></i>		Yes|
+|Overall Score|91|  
+
+&nbsp;
 
 ## Introduction
 
-![trade com screenshot](/images/tradecom_img1.png "screenshot from trade com ")
+![trade com screenshot](/images/tradecom_img1.png "screenshot from trade com "){:class="center-img"}
 
 
 TRADE.com is a multi-asset online brokerage firm that was established back in 2013, with its headquarters in Cyprus. Since then, it has emerged as one of the leaders in the online brokerage space. It offers thousands of different financial assets and instruments for you to invest in across a variety of trading vehicles. These include DMA (Direct Market Access, SpreadBetting for the UK and Ireland, Asset Management services, Thematic tradinng and Pre-IPOs.
@@ -27,22 +52,20 @@ The brand falls under the umbrella of companies that are regulated by authoritie
 
 
 ## Pros 
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Massive selection of different assets and investing types</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Products are suitable for a wide selection of investor profiles and types</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>An excellent dedicated support service available in languages</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Some advanced trading platforms with excellent features</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>A multi regulated firm which is safe and secure</li>
+ </ul> 
 
-
-
-*   Massive selection of different assets and investing types
-*   Products are suitable for a wide selection of investor profiles and types
-*   An excellent dedicated support service available in languages
-*   Some advanced trading platforms with excellent features
-*   A multi regulated firm which is safe and secure
-
+&nbsp;
 
 ## Cons
-
-
-
-*   Spreads on CFDs are a little high, but nothing to worry about
-
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-times-circle"></i></span>Massive selection of different assets and investing types</li>
+ </ul> 
 
 ## Products
 
@@ -80,7 +103,7 @@ There are two main trading platforms that you can use on TRADE.com for CFD tradi
 
 The first is WebTrader, which is ideal if you want to trade through a browser. The interface is crystal clear and minimalistic. Having said that, there is also a great selection of different features and functions that you can use to help you with your trading. One of the highlights of this trading platform is its risk management system that gives you a great helping hand in volatile markets. 
 
-![trade com screenshot](/images/tradecom_img2.png "screenshot from trade com ")
+![trade com screenshot](/images/tradecom_img2.png "screenshot from trade com "){:class="center-img"}
 
 
 You also can use the industry-standard MetaTrader 4 platform. This has been around for many years and a lot of traders will have used this platform at one time or another. This platform can be downloaded as a desktop client for Windows and Mac computers. It is a very convenient platform to use and there is an impressive selection of professional tools to use, which is why it has stood the test of time as a platform. 
@@ -107,7 +130,7 @@ The TRADE.com website is comprehensive in terms of the information that it provi
 
 
 
-![trade com screenshot](/images/tradecom_img3.png "screenshot from trade com ")
+![trade com screenshot](/images/tradecom_img3.png "screenshot from trade com "){:class="center-img"}
 
 
 For simple questions, the live chat option is probably your best bet due to the quick response times. For more detailed issues, you can send the team an email. This inbox is monitored from Sunday at 22:00 GMT until Friday at 22:00 GMT. 
@@ -120,6 +143,8 @@ You can also send the support team a message or ring them through Whatsapp for f
 You do not have to deal with any fees from TRADE.com in order to add or withdraw funds from your account. The main banking options open to you to use are credit cards, debit cards, fast bank transfers, Skrill and Neteller. 
 
 There are a lot of localized payment options also that are dependent on what region you are based in. Each of these options will see your deposited funds hit your account almost instantly, which is ideal. Withdrawals will usually take a few working days, depending on which option you choose. 
+
+-----------------
 
 
 ## Conclusion

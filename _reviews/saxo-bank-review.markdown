@@ -5,42 +5,74 @@ position: 1
 menu_title: SaxoBank
 score: 5
 author: Olav Jensen
-layout: post
+layout: review
 reviewed_item: Saxo Bank
-featured_image: https://multiassetsbrokers.com/images/images/olav_jensen.png
+featured_image: /images/saxo_bank_logo.svg
 description: Saxo Bank is a leader when it comes to the broker space, giving traders
   and investors access to over 35,000 different financial instruments from various
   asset classes. It has its roots as a Danish Investment bank that was started in
   1992
 ---
+|Broker|Saxo Bank|
+| :---       		 |    :----:   | 
+|Website URL|[home.saxo](https://www.home.saxo/)|
+|Founded|1992|
+|Headquarters|<i class="fas fa-map-marker-alt"></i>  Philip Heymans Alle 15  2900 Hellerup, Denmark|
+|Support Number|<i class="fas fa-phone-square-alt"></i> <a href="tel:+4539774000">  +45 3977 4000</a>|
+|Support Types|<i class="fas fa-envelope-square"></i>  Email, <i class="fas fa-robot"></i> ChatBot, <i class="fas fa-phone-square-alt"></i>  Phone| 
+|Languages|22 languages supported|
+|Trading Platform|SaxoTraderGO, SaxoTraderPRO, mobile apps|
+|Minimum 1st Deposit|$600|
+|Minimum Account Size|$0|
+|Maximum Trade Amount|different for each instrument|
+|Bonus|<i class="fas fa-times-circle-circle"></i>	No bonus|
+|Leverage|up to 1:200|
+|Spread|fixed/floating|
+|Free Demo Account|<i class="fas fa-check-circle"></i>	[yes](https://www.home.saxo/accounts/try-free-demo)|
+|Regulated|Licensed by the UK's FCA  (Firm reference number 551422), the Danish FSA, Japanese FSA and other global regulators|
+|Account Types|SAXO account, corporate account, professional account|
+|Deposit Methods|bank transfer, credit/debit card|
+|Withdrawal Methods|bank transfer, credit/debit card|
+|Number of Assets|40,000+|
+|Types of Assets|forex, stocks, ETFs, bonds, mutual funds, options, CFDs|
+|US Traders Allowed|<i class="fas fa-times-circle"></i>	no  |
+|Mobile Trading|<i class="fas fa-check-circle"></i>	yes|
+|Tablet Trading|<i class="fas fa-check-circle"></i>	yes|
+
+
+<br/>
+
 
 ## Introduction
 
 Saxo Bank is a leader when it comes to the broker space, giving traders and investors access to over 35,000 different financial instruments from various asset classes. It has its roots as a Danish Investment bank that was started in 1992. Saxo Bank has been on the online broker scene since 1998 when it launched as one of the very first online brokerages. Since then, it has developed into an impressive platform with professional tools and great market access. 
 
+![SAXO Bank Logo](/images/saxo_bank_logo.svg){:class="center-img"}{:style="width:400px; height: 400px;"}
+
 It is under the regulation of the UK Financial Conduct Authority (FCA) and the Danish Financial Services Agency (FSA). It is a well-respected broker that has top-quality oversight. This Saxo Bank review looks at the ins and outs of this offering, showcasing what exactly it can offer you as a trader.
 
 
 ## Pros
-
-
-
-*   Massive selection of financial instruments
-*   Quality trading platforms
-*   Competitive fee structure
-*   Strong reputation
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Massive selection of financial instruments</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Quality trading platforms</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Competitive fee structure</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Strong reputation</li>
+</ul>
 
 
 ## Cons
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-times-circle"></i></span>Only one withdrawal option</li>
+</ul>
 
-
-
-*   Only one withdrawal option
 
 
 ## Products
 
 There is a massive range of different tradable financial instruments across different asset classes with Saxo Bank. There is leverage trading available for forex, CFDs, futures, commodities, forex options and listed options. You can trade 182 different forex pairs, ranging from major pairs to minor and exotic options, as well as spot metals. 
+
+![SAXO Bank Products](/images/saxo_bank_products.png){:class="center-img"}
 
 There are more than 9,000 different CFD options to check out if this is the type of product you are looking for. You can access more than 200 futures across 23 worldwide exchanges. There is also a wide range of different commodities, futures, options, spot pairs and exchange traded commodities. 
 
@@ -59,6 +91,8 @@ There is an inactivity fee that kicks in quite quickly. If your Saxo Bank accoun
 ## Trading Platforms
 
 The main trading platform on Saxo Bank is a proprietary one. It is called Saxo Bank GO and it has won a number of awards over the years. It has many great features, such as wide-ranging technical and fundamental analysis tools, advanced charting options and comprehensive performance analysis. You have access to a full range of trading instruments and the interface is very easy to use. This is suitable for most types of traders and can be used through a web browser. 
+
+![SAXO Bank Platform](/images/saxo_bank_trading_platform.png){:class="center-img"}
 
 There is the Saxo Bank PRO option that is a professional-grade trading platform. It allows for the likes of algorithmic orders, options chains and one-click trading. It is a good fit for more active, advanced or professional traders. This is a platform that you download to your desktop.
 

@@ -5,34 +5,68 @@ position: 2
 menu_title: CMC Markets
 score: 3
 author: Olav Jensen
-layout: post
+layout: review
 reviewed_item: CMC Markets
 featured_image: https://assets.cmcmarkets.com/images/cmc-logo-blue.svg
+description: CMC Markets was originally founded in 1989 and it has its headquarters in London. It acts as a multi-asset class CFD and spread betting broker. It is under the regulation of the highly-respected UK Financial Conduct Authority (FCA). There are thousands of different instruments that can be traded through CMC Markets. It covers most of the bases that a trader would be looking for in a broker. 
 ---
+|Broker|CMC Markets|
+| :---       		 |    :----:   | 
+|Website URL|[https://www.cmcmarkets.com/en/](https://www.cmcmarkets.com/en/)|
+|Founded|1989|
+|Headquarters|<i class="fas fa-map-marker-alt"></i>  133 Houndsditch, London, EC3A 7BX|
+|Support Number|<i class="fas fa-phone-square-alt"></i> <a href="tel:+442071708200">0207 170 8200</a>|
+|Support Types|<i class="fas fa-envelope-square"></i>  Email, <i class="fas fa-phone-square-alt"></i>  Phone|
+|Languages|17 languages supported|
+|Trading Platform|web-based, MetaTrader 4, mobile apps|
+|Minimum 1st Deposit|$0|
+|Minimum Account Size|$0|
+|Maximum Trade Amount|different for each instrument|
+|Bonus|No bonus|
+|Leverage|1:30 for retail and up to 1:500 for professional clients|
+|Spread|floating|
+|Free Demo Account|<i class="fas fa-check-circle"></i>		[Yes,   Click Here To Open New Account](https://www.cmcmarkets.com/en/cfds/demo-trading-account)|
+|Regulated|CMC Markets UK plc (173730) and CMC Spreadbet plc (170627) are authorised and regulated by the Financial Conduct Authority in the United Kingdom|
+|Account Types|CFD account, corporate account|
+|Deposit Methods|bank transfer, credit/debit cards, ewallets|
+|Withdrawal Methods|bank transfer, credit/debit cards, ewallets|
+|Number of Assets|9,000+|
+|Types of Assets|forex, indices, cryptocurrencies, commodities, shares, share baskets, treasuries|
+|US Traders Allowed|<i class="fas fa-check-circle"></i>		yes|
+|Mobile Trading|<i class="fas fa-check-circle"></i>		yes|
+|Tablet Trading|<i class="fas fa-check-circle"></i>		yes|
+  
+
+ <br/>
 
 ## Introduction
 
 CMC Markets was originally founded in 1989 and it has its headquarters in London. It acts as a multi-asset class CFD and spread betting broker. It is under the regulation of the highly-respected UK Financial Conduct Authority (FCA). There are thousands of different instruments that can be traded through CMC Markets. It covers most of the bases that a trader would be looking for in a broker. 
 
+![CMC Markets Logo](/images/cmc-logo-blue.svg){:class="center-img"}{:style="width:200px; height: 200px;"}
+
 This CMC Markets review takes a deep dive into the offering, separating the different aspects of the platform to see what is a good fit for your needs. 
 
 
 ## Pros
-
-*   Well-regulated
-*   Massive array of different asset classes and financial instruments
-*   Two quality trading platforms
-*   Competitive fee structure
-
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Well-regulated</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Massive array of different asset classes and financial instruments</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Two quality trading platforms</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Competitive fee structure</li>
+</ul>
 
 ## Cons
-
-*   No 24/7 support
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-times-circle"></i></span>No 24/7 support</li>
+</ul>
 
 
 ## Products
 
 The main focus for CMC Markets in terms of its product offering is the allowance of CFD trading and spread betting. There are six main asset classes covered as part of the offering. You have more than 30 different forex instruments to choose from, including major and minor currency pairs, as well as exotic options. There are more than sixty indices that you can trade, as well as fifteen different cryptocurrencies. 
+
+![CMC Markets Instruments](/images/cmc_markets_instruments.png){:class="center-img"}
 
 If you want to do some CFD trading with ETFs or shares, there are more than 9,000 different options in this regard. You can choose from over 90 different commodities and a few dozen treasuries. There really is a diverse offering of different types of financial instruments open for you to trade through CMC Markets. You can also open a demo account and try out trading these different types of products if you wish to learn the ropes without putting your money on the line.
 
@@ -47,6 +81,9 @@ For the spread betting side of things, there are holding costs in certain instan
 ## Trading Platforms
 
 There is an impressive trading platform offering at CMC Markets. The proprietary CMC Markets Next Generation platform is extremely reliable, fast and has many top-quality features and tools that will be suitable for all types of traders. It has won many awards over the years for its quality. You have access to advanced charting packages and there are more than 115 technical indicators.
+
+![CMC Markets Platform](/images/cmc_markets_platform.png){:class="center-img"}
+
 
 If you prefer to use a different type of a trading platform that is more beginner friendly, the industry-standard MetaTrader 4 trading platform is also an option. This will be familiar to most experienced traders and is a solid option also. This platform allows you to automate trading if you need to. Both of these trading platform options are available through mobile and tablet apps for iOS and Android devices. 
 
@@ -69,7 +106,7 @@ CMC Markets has a very well-laid out support center. You can quickly see the res
 You can also send the team an email, or use the live chat feature for a quick response. The support team will be working every weekday on a 24-hour basis, so you will be able to have access during normal trading hours. The quality of the support team answers is also good, allowing you to quickly move past any issues you may be having. 
 
 
-## Deposits and WIthdrawals
+## Deposits and Withdrawals
 
 There are a few main ways for you to add funds to your new CMC Markets account. You can use a credit card, debit card or a bank transfer. No cash deposits or cheques are allowable. There are certain types of credit cards that are not accepted, but you will be fine with most Visa and MasterCard options. 
 

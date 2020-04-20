@@ -5,10 +5,38 @@ position: 3
 menu_title: IG Index
 score: 4
 author: Olav Jensen
-layout: post
+layout: review
 reviewed_item: IG Index
 featured_image: https://a.c-dn.net/b/07Cglg.svg#IG_LOGO.svg
+description: IG is a broker that was set up back in 1974 and is a publicly-traded company. It has built itself into one of the largest CFD brokers across the world today. It is under the regulation of many leading bodies around the globe, such as the Federal Financial Supervisory Authority (BaFIN) and the Financial Conduct Authority in the UK. 
 ---
+|Broker|IG|
+| :---       		 |    :----:   | 
+|Website URL|[www.ig.com](https://www.ig.com/en)|
+|Founded|1974|
+|Headquarters|<i class="fas fa-map-marker-alt"></i>  Cannon Bridge House 25 Dowgate Hill London EC4R 2YA|
+|Support Number|<i class="fas fa-phone-square-alt"></i> <a href="tel:+448001953100">0800 195 3100</a>|
+|Support Types|<i class="fas fa-envelope-square"></i>  Email, <i class="fas fa-comment-dots"></i> Chat, <i class="fas fa-phone-square-alt"></i>  Phone|
+|Languages|22 languages supported|
+|Trading Platform|web-based, desktop platform, MetaTrader 4, mobile apps, ProReal Time|
+|Minimum 1st Deposit|$300|
+|Minimum Account Size|$0|
+|Maximum Trade Amount|different for each instrument|
+|Bonus|No bonus|
+|Leverage|up to 1:200|
+|Spread|fixed/floating|
+|Free Demo Account|<i class="fas fa-check-circle"></i>		[Yes,  Click Here To Open New Account](https://www.ig.com/en/demo-account)|
+|Regulated|IG International Limited is licensed to conduct investment business and digital asset business by the Bermuda Monetary Authority and is registered in Bermuda under No. 54814|
+|Account Types|IG trading account, IG professional account, IG options account, IG turbo24, IG swap free account, exchange account|
+|Deposit Methods|debit/credit card, wire transfer|
+|Withdrawal Methods|debit/credit card, wire transfer|
+|Number of Assets|17,000+|
+|Types of Assets|forex, shares, indices, commodities, cryptocurrencies|
+|US Traders Allowed|<i class="fas fa-check-circle"></i>		yes|
+|Mobile Trading|<i class="fas fa-check-circle"></i>		yes|
+|Tablet Trading|<i class="fas fa-check-circle"></i>		yes|
+
+<br/>
 
 ## Introduction
 
@@ -16,17 +44,21 @@ IG is a broker that was set up back in 1974 and is a publicly-traded company. It
 
 IG has a great reputation, having catered for clients for many decades, allowing for seamless trading. There are thousands of different financial markets that can be accessed through IG. This IG review will give you a proper insight into what you can expect when it comes to using the brokerage. 
 
+![IG Logo](/images/ig_com_logo.png){:class="center-img"}
 
 ## Pros 
-*   Thousands of markets to invest in
-*   Decent fee structure
-*   Numerous trading platforms
-*   Strong customer support
+<ul class="fa-ul">
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Thousands of markets to invest in</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Decent fee structure</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Numerous trading platforms</li>
+  <li><span class="fa-li"><i class="fas fa-check-circle"></i></span>Strong customer support</li>
+ </ul> 
 
 
 ## Cons
-*   A big focus on CFD trading
-
+<ul class="fa-ul">
+	<li><span class="fa-li"><i class="fas fa-times-circle"></i></span>A big focus on CFD trading</li>
+</ul>
 
 ## Products
 
@@ -51,6 +83,8 @@ Overall, the fee structure for trading at IG is pretty good. There is a monthly 
 ## Trading Platforms
 
 There are a few different trading platforms that are available through IG. There is the bog-standard MetaTrader 4 platform that is common across the online broker sector. It is well equipped with adequate research and analysis tools, as well as being very easy to use. You need to download this client and you can trade forex, indices, major metals and oil through it. 
+
+![IG platform](/images/ig_com_platform.png){:class="center-img"}
 
 There is the ProRealTime platform that will cost $40 per month to use. This has very advanced charting packages and many quality trading tools. You can use it through a web browser and all products can be traded through it. There is the L2 Dealer platform for those looking to trade through DMA. This is a proprietary platform and is suitable for advanced traders. 
 

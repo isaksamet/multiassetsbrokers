@@ -1,20 +1,45 @@
 ---
-layout: default
+layout: main
 ---
 
-<div class="home">
-
-  <h1>Our Reviews</h1>
-
-  <ul class="post-list">
+<!-- /.row -->
+  
     {% for review in site.reviews %}
-      <li>
-        <div class="jumbotron">
-        <h2>
-          <a class="post-link" href="{{ review.url | prepend: site.baseurl }}">{{ review.title }}</a>
-        </h2>
+<!-- /.row -->
+<div class="row">
+  <div class="col-md-12 mb-12">
+    <div class="jumbotron">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            <img src="{{ review.featured_image }}" alt="review.title" class="img-thumbnail thumbnail">
+          </div>
+          <div class="col-sm">
+            <h2>{{ review.title }}</h2>
+            <hr />
+            <p>
+              {{ review.description }}
+            </p>
+          </div>
+        </div>
       </div>
-      </li>
-    {% endfor %}
-  </ul>
+     
+    
+    <div class="row">
+      <div class="col-md-8">
+         <span class="font-weight-bold">Score:</span> 
+         {% for star in (1..review.score) %}
+              <img src="images/star.png" alt="star" />
+         {% endfor %}
+      </div>
+      
+      <div class="col-md-4">
+        <a class="btn btn-primary btn-lg" href="{{ review.url | prepend: site.baseurl }}">Read Full Review &raquo;</a>
+      </div>
+    </div>
+    
+  </div>
+  </div>  
 </div>
+<!-- /.row -->
+      {% endfor %}

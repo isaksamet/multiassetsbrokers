@@ -1,44 +1,22 @@
+---
+---
+
 <!DOCTYPE html>
 <html lang="en">
+{% include head.html %}
 
-  {% include head.html %}
+<body>
+  {% include navigation.html %} 
+  <!-- Page Content -->
+  <div class="container mb-5">
+    {{ content }}
+  </div>
+  <!-- /.container -->
+  {% include footer.html %}
 
-  <body>
-
-    {% include header.html %}
-
-  <script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "WebSite",
-        "name": "MultiAssetsBrokers",
-        "url": "http://multiassetsbrokers.com"
-    }
-  </script>
-  <script type="application/ld+json">
-    {
-        "@context": "http://schema.org",
-        "@type": "Organization",
-        "name": "MultiAssetsBrokers",
-        "url": "https://multiassetsbrokers.com",
-        "logo": "https://multiassetsbrokers.com/images/logo.png",
-        "brand": "MultiAssetsBrokers",
-        "contactPoint": {
-            "@type": "ContactPoint",
-            "url": "https://multiassetsbrokers.com",
-            "email": "info(at)multiassetsbrokers.com",
-            "contactType": "Customer service"
-        }
-    }
-</script>
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-  </body>
+  <!-- Bootstrap core JavaScript -->
+  <script src="{{ site.baseurl }}/assets/vendor/jquery/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
 
 </html>
