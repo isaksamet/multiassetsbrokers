@@ -5,7 +5,7 @@ score: 4
 menu_title: InstaForex
 author: Olav Jensen
 featured_image: "/images/instaforex_logo.png"
-reviewed_item: CMC Markets
+reviewed_item: InstaForex
 layout: review
 description: InstaForex has been offering the trading off Forex since 2007 and in
   the intervening period it has grown into one of the biggest brokers of its kind
