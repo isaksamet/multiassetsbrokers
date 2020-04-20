@@ -4,11 +4,17 @@ date: 2020-04-19 15:51:00 Z
 score: 4
 menu_title: InstaForex
 author: Olav Jensen
+<<<<<<< HEAD
 featured_image: /images/instaforex_logo.png
+=======
+featured_image: "/images/instaforex%20logo.png"
+>>>>>>> bbf7aea0b3b824a788c6d602a957f85844381268
 reviewed_item: CMC Markets
 layout: post
-description: InstaForex has been offering the trading off Forex since 2007 and in the intervening period it has grown into one of the biggest brokers of its kind in the online space, having more than 7 million traders signed up for an account. Its main area of focus is on traders that are based in the European Union.
-
+description: InstaForex has been offering the trading off Forex since 2007 and in
+  the intervening period it has grown into one of the biggest brokers of its kind
+  in the online space, having more than 7 million traders signed up for an account.
+  Its main area of focus is on traders that are based in the European Union.
 ---
 
 |Broker|Instaforex|
