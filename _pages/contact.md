@@ -3,7 +3,7 @@ permalink: "/contact/"
 layout: default
 ---
 
-## Contact us
+<h1>Contact us</h1>
 
 <div class="row py-4">
     <div class="col-md-12">
