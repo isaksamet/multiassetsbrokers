@@ -4,7 +4,7 @@ date: 2020-04-19 15:51:00 Z
 score: 3
 menu_title: InstaForex
 author: Olav Jensen
-featured_image: "/images/instaforex_logo.png"
+featured_image: https://multiassetsbrokers.com/images/instaforex_logo.png
 reviewed_item: InstaForex
 description: InstaForex has been offering the trading off Forex since 2007 and in
   the intervening period it has grown into one of the biggest brokers of its kind
