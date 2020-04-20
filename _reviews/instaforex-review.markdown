@@ -118,11 +118,8 @@ While there are no deposit fees, there are charges when you make withdrawals. Fo
 
 The main trading platform to choose on InstaForex is the industry-standard MetaTrader 4 platform. This will be very familiar to most experienced traders as it is offered as an option by the majority of online forex brokers. It has a great variety of different tools and charting options. 
 
-<<<<<<< HEAD
+
 ![instaforex MT4 platform.png](/images/instaforex_MT4_platform.png){:class="center-img"}
-=======
-![instaforex MT4 platform.png](/uploads/instaforex%20MT4%20platform.png)
->>>>>>> 78d3836ff8ac1f3995c76e847738919228222868
 
 The interface is well-laid out and easy to use. It is particularly friendly for beginners who are just getting started with their trading. You have options to automate your trading or to enact copy trading if you wish to do so. There are also backtesting capabilities that allow you to test out different strategies first before implementing them. 
 
