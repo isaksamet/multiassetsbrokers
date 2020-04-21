@@ -1,15 +1,12 @@
 ---
-title: TRADE.com Review
+title: Trade.com Review – Is Trade.com a multi-asset broker?
 date: 2020-03-01 13:38:00 Z
 position: 0
 menu_title: Trade.com
 score: 5
 author: Olav Jensen
-description: In this TRADE.com review we explore this one of a kind multi asset brokerage
-  firm that stands head and shoulders above the competition. Read and then open an
-  account. TRADE.com is a multi-asset online brokerage firm that was established back
-  in 2013, with its headquarters in Cyprus. Since then, it has emerged as one of the
-  leaders in the online brokerage space.
+description: Read the recent Trade.com review provided by Multi Assets Brokers Comparison
+  to find our whether this Multi-Asset Broker is on the highest bar in 2020
 reviewed_item: trade dot com
 featured_image: https://cfd.trade.com/sites/default/files/nv-images/TRADE.com_CFD_Logo.svg
 layout: review
