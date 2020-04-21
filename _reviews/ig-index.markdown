@@ -1,18 +1,15 @@
 ---
-title: IG Index Review
+title: IG Review – Is IG Index a multi-asset broker?
 date: 2020-03-26 12:34:00 Z
 position: 3
 menu_title: IG Index
 score: 4
 author: Olav Jensen
-layout: review
 reviewed_item: IG Index
 featured_image: https://a.c-dn.net/b/07Cglg.svg#IG_LOGO.svg
-description: IG is a broker that was set up back in 1974 and is a publicly-traded
-  company. It has built itself into one of the largest CFD brokers across the world
-  today. It is under the regulation of many leading bodies around the globe, such
-  as the Federal Financial Supervisory Authority (BaFIN) and the Financial Conduct
-  Authority in the UK.
+description: Read the recent IG Index review provided by Multi Assets Brokers Comparison
+  to find our whether this Multi-Asset Broker is on the highest bar in 2020
+layout: review
 ---
 
 |Broker|IG|
