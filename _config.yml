@@ -12,7 +12,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: 
+description: description
 baseurl: https://multiassetsbrokers.com
 color-scheme: "#467187"
 sass:
