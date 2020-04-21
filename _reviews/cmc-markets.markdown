@@ -7,11 +7,8 @@ score: 3
 author: Olav Jensen
 reviewed_item: CMC Markets
 featured_image: https://assets.cmcmarkets.com/images/cmc-logo-blue.svg
-description: CMC Markets was originally founded in 1989 and it has its headquarters
-  in London. It acts as a multi-asset class CFD and spread betting broker. It is under
-  the regulation of the highly-respected UK Financial Conduct Authority (FCA). There
-  are thousands of different instruments that can be traded through CMC Markets. It
-  covers most of the bases that a trader would be looking for in a broker.
+description: Read the recent CMC Markets review provided by Multi Assets Brokers Comparison
+  to find our whether this Multi-Asset Broker is on the highest bar in 2020
 layout: review
 ---
 
