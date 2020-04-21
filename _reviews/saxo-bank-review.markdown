@@ -1,5 +1,5 @@
 ---
-title: Saxo Bank Review
+title: Saxo bank Review – Is Saxo bank a multi-asset broker?
 date: 2020-03-26 13:36:00 Z
 position: 1
 menu_title: SaxoBank
@@ -7,10 +7,8 @@ score: 4
 author: Olav Jensen
 reviewed_item: Saxo Bank
 featured_image: https://multiassetsbrokers.com/images/saxo_bank_logo.svg
-description: Saxo Bank is a leader when it comes to the broker space, giving traders
-  and investors access to over 35,000 different financial instruments from various
-  asset classes. It has its roots as a Danish Investment bank that was started in
-  1992
+description: Read the recent Saxo bank review provided by Multi Assets Brokers Comparison
+  to find our whether this Multi-Asset Broker is on the highest bar in 2020
 layout: review
 ---
 
