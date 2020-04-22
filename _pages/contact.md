@@ -8,7 +8,7 @@ layout: default
 <div class="row py-4">
     <div class="col-md-12">
     <div class="well well-sm">
-        <form class="form-horizontal" action="#" method="post">
+        <form class="form-horizontal" action="#" method="" id="contactform" >
         <fieldset>
         <!-- Name input-->
         <div class="form-group">
@@ -41,4 +41,22 @@ layout: default
         </form>
     </div>
     </div>
+    <div id="thankyou" class="invisible">
+        <h2>Thanks!! Your message was sent. We will contact you soon!</h2> 
+    </div>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript">
+         $('#contactform').submit(function(event){
+            event.preventDefault();
+            $.post('https://hooks.zapier.com/hooks/catch/1463976/o5asj1q/', $(this).serialize(), function(response){
+              if(response.result === 'error'){
+                console.log(response.message);
+                return;
+              }
+              // update view
+              $('#contactform').addClass("invisible");
+              $('#thankyou').toggleClass("invisible");           
+            }, 'json');
+          });
+    </script>
 </div>
