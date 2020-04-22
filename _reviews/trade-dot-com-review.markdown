@@ -46,7 +46,7 @@ layout: review
 ![trade com screenshot](/images/tradecom_img1.png "screenshot from trade com "){:class="center-img"}
 
 
-TRADE.com is a multi-asset online brokerage firm that was established back in 2013, with its headquarters in Cyprus. Since then, it has emerged as one of the leaders in the online brokerage space. It offers thousands of different financial assets and instruments for you to invest in across a variety of trading vehicles. These include DMA (Direct Market Access, SpreadBetting for the UK and Ireland, Asset Management services, Thematic tradinng and Pre-IPOs.
+[TRADE.com is a multi-asset online brokerage firm](https://www.trade.com/) that was established back in 2013, with its headquarters in Cyprus. Since then, it has emerged as one of the leaders in the online brokerage space. It offers thousands of different financial assets and instruments for you to invest in across a variety of trading vehicles. These include DMA (Direct Market Access, SpreadBetting for the UK and Ireland, Asset Management services, Thematic tradinng and Pre-IPOs.
 
 The brand falls under the umbrella of companies that are regulated by authorities in Cyprus, the United Kingdom and South Africa, catering to a truly global audience. This TRADE.com review looks at the pros and cons of this brokerage solution, giving you a fair idea as to whether or not TRADE.com will be a good fit for your investing needs. 
 
@@ -99,7 +99,7 @@ For the other products fees vary, and it is worth speaking to the firm directly 
 
 ## Trading Platforms
 
-There are two main trading platforms that you can use on TRADE.com for CFD trading. Each of them supports mobile trading, with solid mobile offerings for iOS and Android devices.
+There are two main trading platforms that you can use on TRADE.com for CFD trading. Each of them supports mobile trading, with solid mobile offerings for [iOS](https://apps.apple.com/us/app/trade-com/id1120178110) and [Android](https://play.google.com/store/apps/details?id=com.trade.android&hl=en) devices.
 
 The first is WebTrader, which is ideal if you want to trade through a browser. The interface is crystal clear and minimalistic. Having said that, there is also a great selection of different features and functions that you can use to help you with your trading. One of the highlights of this trading platform is its risk management system that gives you a great helping hand in volatile markets. 
 

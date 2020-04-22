@@ -4,16 +4,6 @@
     name="viewport"
     content="width=device-width, initial-scale=1, shrink-to-fit=no"
   />
-  <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5CMP43M');</script>
-<!-- End Google Tag Manager -->
-  <meta name="description" content="{{ page.description }}" />
-  <meta name="author" content="Olav Jensen" />
-  <link rel="canonical" href="{{ site.baseurl}}{{ page.url }}" />
 
 {% if page.title == site.title %}
   <title>{{ page.title}} | {{ site.title }}</title>
@@ -21,8 +11,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <title>{{ page.title}}</title>
 {% endif %}
 
-
-
+  <meta name="description" content="{{ page.description }}" />
+  <meta name="author" content="Olav Jensen" />
+  <link rel="canonical" href="{{ site.baseurl}}{{ page.url }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.baseurl}}{{ page.url }}" />
 
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="article" />
@@ -40,6 +32,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <meta name="twitter:description" content="{{ page.description }}" />
   <meta name="twitter:image" content="{{ page.featured_image }}" />
 
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5CMP43M');</script>
+<!-- End Google Tag Manager -->
   <!-- Bootstrap core CSS -->
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet" />
 
