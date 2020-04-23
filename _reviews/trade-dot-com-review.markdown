@@ -8,7 +8,7 @@ author: Olav Jensen
 description: Read the recent Trade.com review provided by Multi Assets Brokers Comparison
   to find our whether this Multi-Asset Broker is on the highest bar in 2020
 reviewed_item: trade dot com
-featured_image: https://cfd.trade.com/sites/default/files/nv-images/TRADE.com_CFD_Logo.svg
+featured_image: https://www.trade.com/assets/img/Common/trade-MAB-logo.svg
 layout: review
 ---
 
